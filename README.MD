@@ -3,7 +3,7 @@
 ![](img.png)
 
 [![rescoss_logp_ml](https://github.com/cisert/rescoss_logp_ml/actions/workflows/build.yml/badge.svg)](https://github.com/cisert/rescoss_logp_ml/actions/workflows/build.yml)
-[![codecov](https://codecov.io/gh/cisert/rescoss_logp_ml/branch/main/graph/badge.svg?token=BYQU5RU6BO)](https://codecov.io/gh/cisert/rescoss_logp_ml)
+[![codecov](https://codecov.io/gh/cisert/rescoss_logp_ml/branch/main/graph/badge.svg?token=s0t6Nf3RW3)](https://codecov.io/gh/cisert/rescoss_logp_ml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 
