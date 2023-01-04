@@ -10,7 +10,7 @@
 
 Machine-learning models to predict ReSCoSS-calculated [1] log *P* values for drug-like molecules. 
 
-Details are described in our paper: TODO: ADD PAPER LINK. Please cite if you use this work. 
+Details are described in our [paper](https://pubs.acs.org/doi/10.1021/acsomega.2c05607). Please cite if you use this work. 
 
 ## Setup and testing
 
